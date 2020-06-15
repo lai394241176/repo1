@@ -26,6 +26,7 @@ public class MyController {
         //System.out.println(one);
         User01 one = userRepository01.getOne(id);
         System.out.println("111111");
+        System.out.println("2455");
         return  one;
     }
 }
